@@ -63,7 +63,8 @@ MAINWND_DEP = aboutdlg.h \
 	mainwnd.h
 
 
-RESOURCE_RCDEP = app.ico
+RESOURCE_RCDEP = app.ico \
+	win16dlg.ver
 
 
 WINMAIN_DEP = globals.h \
